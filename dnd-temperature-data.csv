@@ -1,4 +1,4 @@
-﻿Location ID,Location,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean,,,FIPS Match,,
+﻿Location ID,Location,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean,,State,FIPS Match,,
 AL-001,Autauga County,50.4,105,4.1,46.3,,AL,1,001,01001
 AL-003,Baldwin County,54.9,105,3.9,51,,AL,1,003,01003
 AL-005,Barbour County,51.7,102,3.9,47.8,,AL,1,005,01005
@@ -55,52 +55,52 @@ AL-105,Perry County,49.3,101,3.7,45.6,,AL,1,105,01105
 AL-107,Pickens County,48.8,107,4.7,44.1,,AL,1,107,01107
 AL-109,Pike County,51.4,101,3.7,47.7,,AL,1,109,01109
 AL-111,Randolph County,47.2,111,4.9,42.3,,AL,1,111,01111
-AL-113,Russell County,50.8,104,3.8,47,,AL,1,113,01113,,,
-AL-115,St. Clair County,47.8,113,5.3,42.5,,AL,1,115,01115,,,
-AL-117,Shelby County,48.5,111,4.8,43.7,,AL,1,117,01117,,,
-AL-119,Sumter County,50.3,109,4.5,45.8,,AL,1,119,01119,,,
-AL-121,Talladega County,48.1,108,4.5,43.6,,AL,1,121,01121,,,
-AL-123,Tallapoosa County,47.9,101,3.5,44.4,,AL,1,123,01123,,,
-AL-125,Tuscaloosa County,49.2,112,5,44.2,,AL,1,125,01125,,,
-AL-127,Walker County,47.8,112,5.2,42.6,,AL,1,127,01127,,,
-AL-129,Washington County,52.4,99,3.8,48.6,,AL,1,129,01129,,,
-AL-131,Wilcox County,51.7,105,4.2,47.5,,AL,1,131,01131,,,
-AL-133,Winston County,45.8,111,4.9,40.9,,AL,1,133,01133,,,
-AZ-001,Apache County,32.7,92,3,29.7,,AZ,4,001,04001,,,
-AZ-003,Cochise County,46.1,101,2.6,43.5,,AZ,4,003,04003,,,
-AZ-005,Coconino County,35.5,107,3.6,31.9,,AZ,4,005,04005,,,
-AZ-007,Gila County,45,113,4.1,40.9,,AZ,4,007,04007,,,
-AZ-009,Graham County,45.3,102,2.7,42.6,,AZ,4,009,04009,,,
-AZ-011,Greenlee County,41.6,106,3.2,38.4,,AZ,4,011,04011,,,
-AZ-012,La Paz County,53.8,100,2.6,51.2,,AZ,4,012,04012,,,
-AZ-013,Maricopa County,53.4,98,2.6,50.8,,AZ,4,013,04013,,,
-AZ-015,Mohave County,45.7,105,3.4,42.3,,AZ,4,015,04015,,,
-AZ-017,Navajo County,34,101,3.6,30.4,,AZ,4,017,04017,,,
-AZ-019,Pima County,51.8,96,2.2,49.6,,AZ,4,019,04019,,,
-AZ-021,Pinal County,51.4,91,1.9,49.5,,AZ,4,021,04021,,,
-AZ-023,Santa Cruz County,46.9,100,2.6,44.3,,AZ,4,023,04023,,,
-AZ-025,Yavapai County,44.3,107,3.4,40.9,,AZ,4,025,04025,,,
-AZ-027,Yuma County,55.4,100,2.6,52.8,,AZ,4,027,04027,,,
-AR-001,Arkansas County,46.2,110,5,41.2,,AR,5,001,05001,,,
-AR-003,Ashley County,48.7,111,5.1,43.6,,AR,5,003,05003,,,
-AR-005,Baxter County,39.6,107,4.7,34.9,,AR,5,005,05005,,,
-AR-007,Benton County,40.2,112,5.2,35,,AR,5,007,05007,,,
-AR-009,Boone County,39.3,108,4.6,34.7,,AR,5,009,05009,,,
-AR-011,Bradley County,48,113,5.2,42.8,,AR,5,011,05011,,,
-AR-013,Calhoun County,47.2,110,4.4,42.8,,AR,5,013,05013,,,
-AR-015,Carroll County,39.6,110,4.7,34.9,,AR,5,015,05015,,,
-AR-017,Chicot County,48.1,107,4.3,43.8,,AR,5,017,05017,,,
-AR-019,Clark County,46,109,4.4,41.6,,AR,5,019,05019,,,
-AR-021,Clay County,41.5,111,5.6,35.9,,AR,5,021,05021,,,
-AR-023,Cleburne County,42.1,108,4.6,37.5,,AR,5,023,05023,,,
-AR-025,Cleveland County,46.4,107,4.4,42,,AR,5,025,05025,,,
-AR-027,Columbia County,47.4,103,3.6,43.8,,AR,5,027,05027,,,
-AR-029,Conway County,42.3,104,3.7,38.6,,AR,5,029,05029,,,
-AR-031,Craighead County,42.6,113,5.6,37,,AR,5,031,05031,,,
-AR-033,Crawford County,42,109,4.5,37.5,,AR,5,033,05033,,,
-AR-035,Crittenden County,45.3,117,5.9,39.4,,AR,5,035,05035,,,
-AR-037,Cross County,44.1,112,5.3,38.8,,AR,5,037,05037,,,
-AR-039,Dallas County,45.8,105,3.8,42,,AR,5,039,05039,,,
+AL-113,Russell County,50.8,104,3.8,47,,AL,1,113,01113
+AL-115,St. Clair County,47.8,113,5.3,42.5,,AL,1,115,01115
+AL-117,Shelby County,48.5,111,4.8,43.7,,AL,1,117,01117
+AL-119,Sumter County,50.3,109,4.5,45.8,,AL,1,119,01119
+AL-121,Talladega County,48.1,108,4.5,43.6,,AL,1,121,01121
+AL-123,Tallapoosa County,47.9,101,3.5,44.4,,AL,1,123,01123
+AL-125,Tuscaloosa County,49.2,112,5,44.2,,AL,1,125,01125
+AL-127,Walker County,47.8,112,5.2,42.6,,AL,1,127,01127
+AL-129,Washington County,52.4,99,3.8,48.6,,AL,1,129,01129
+AL-131,Wilcox County,51.7,105,4.2,47.5,,AL,1,131,01131
+AL-133,Winston County,45.8,111,4.9,40.9,,AL,1,133,01133
+AZ-001,Apache County,32.7,92,3,29.7,,AZ,4,001,04001
+AZ-003,Cochise County,46.1,101,2.6,43.5,,AZ,4,003,04003
+AZ-005,Coconino County,35.5,107,3.6,31.9,,AZ,4,005,04005
+AZ-007,Gila County,45,113,4.1,40.9,,AZ,4,007,04007
+AZ-009,Graham County,45.3,102,2.7,42.6,,AZ,4,009,04009
+AZ-011,Greenlee County,41.6,106,3.2,38.4,,AZ,4,011,04011
+AZ-012,La Paz County,53.8,100,2.6,51.2,,AZ,4,012,04012
+AZ-013,Maricopa County,53.4,98,2.6,50.8,,AZ,4,013,04013
+AZ-015,Mohave County,45.7,105,3.4,42.3,,AZ,4,015,04015
+AZ-017,Navajo County,34,101,3.6,30.4,,AZ,4,017,04017
+AZ-019,Pima County,51.8,96,2.2,49.6,,AZ,4,019,04019
+AZ-021,Pinal County,51.4,91,1.9,49.5,,AZ,4,021,04021
+AZ-023,Santa Cruz County,46.9,100,2.6,44.3,,AZ,4,023,04023
+AZ-025,Yavapai County,44.3,107,3.4,40.9,,AZ,4,025,04025
+AZ-027,Yuma County,55.4,100,2.6,52.8,,AZ,4,027,04027
+AR-001,Arkansas County,46.2,110,5,41.2,,AR,5,001,05001
+AR-003,Ashley County,48.7,111,5.1,43.6,,AR,5,003,05003
+AR-005,Baxter County,39.6,107,4.7,34.9,,AR,5,005,05005
+AR-007,Benton County,40.2,112,5.2,35,,AR,5,007,05007
+AR-009,Boone County,39.3,108,4.6,34.7,,AR,5,009,05009
+AR-011,Bradley County,48,113,5.2,42.8,,AR,5,011,05011
+AR-013,Calhoun County,47.2,110,4.4,42.8,,AR,5,013,05013
+AR-015,Carroll County,39.6,110,4.7,34.9,,AR,5,015,05015
+AR-017,Chicot County,48.1,107,4.3,43.8,,AR,5,017,05017
+AR-019,Clark County,46,109,4.4,41.6,,AR,5,019,05019
+AR-021,Clay County,41.5,111,5.6,35.9,,AR,5,021,05021
+AR-023,Cleburne County,42.1,108,4.6,37.5,,AR,5,023,05023
+AR-025,Cleveland County,46.4,107,4.4,42,,AR,5,025,05025
+AR-027,Columbia County,47.4,103,3.6,43.8,,AR,5,027,05027
+AR-029,Conway County,42.3,104,3.7,38.6,,AR,5,029,05029
+AR-031,Craighead County,42.6,113,5.6,37,,AR,5,031,05031
+AR-033,Crawford County,42,109,4.5,37.5,,AR,5,033,05033
+AR-035,Crittenden County,45.3,117,5.9,39.4,,AR,5,035,05035
+AR-037,Cross County,44.1,112,5.3,38.8,,AR,5,037,05037
+AR-039,Dallas County,45.8,105,3.8,42,,AR,5,039,05039
 AR-041,Desha County,47.2,113,4.9,42.3,,AR,5,041,05041,,,
 AR-043,Drew County,47.9,113,5.2,42.7,,AR,5,043,05043,,,
 AR-045,Faulkner County,42.6,100,3.4,39.2,,AR,5,045,05045,,,
