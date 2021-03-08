@@ -1,4 +1,4 @@
-﻿FIPS,HPFY20,HPFY19,HPFY19,HPFY1918,HPM,POPM,CASES,DEATH,MASK,VOTE,TAX,TEMP,RURAL
+﻿FIPS,HomePriceGrowth19to20,HomePriceGrowth18to19,HomePriceGrowth17to18,HomePriceGrowth17to19,HomePrices2019,Population,TotalCasesPercent,TotalDeathsPercentPopulation,MaskUse,ClintonVoteShare,StateLocalTax,Temperature,RuralUrbanCode
 1001,0.042,0.037,0.047,0.086,0.208,0.056,0.105,0.001,0.739,0.238,0.091,50.4,2
 1003,0.098,0.042,0.127,0.174,0.223,0.223,0.084,0.001,0.759,0.194,0.091,54.9,3
 1005,0.004,0.062,0.073,0.139,0.097,0.025,0.081,0.002,0.692,0.465,0.091,51.7,6
