@@ -1,4 +1,4 @@
-﻿FIPS,HomePriceGrowth19to20,TotalDeathsPercentPopulation,UrbanDummy,TotalDeathsPercentPopulation X UrbanDummy,HomePriceGrowth18to19,ClintonVoteShare,JanAvgTemperature
+﻿FIPS,HomePriceGrowth19to20,TotalDeathsPercentPopulation,UrbanDummy,TotalDeathsPercentPopXUrbanDummy,HomePriceGrowth18to19,ClintonVoteShare,JanAvgTemperature
 01001,0.042,0.001,1,0.001,0.037,0.238,50.40
 01003,0.098,0.001,0,0.000,0.042,0.194,54.90
 01005,0.004,0.002,0,0.000,0.062,0.465,51.70
